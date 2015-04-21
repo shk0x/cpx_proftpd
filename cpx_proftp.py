@@ -1,8 +1,7 @@
 '''
 
-c0ded by daldana. (daniel.aldana.moreno ___at__ gmail.com)
-
 *** for educational purpouse ONLY! ***
+c0ded by daldana. (daniel.aldana.moreno ___at__ gmail.com)
 
 '''
 
