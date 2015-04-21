@@ -7,7 +7,7 @@ Tool coded by Daniel Aldana for [CVE-2015-3306](http://bugs.proftpd.org/show_bug
 usage: 
 
 ```
-python cpx_proftp.py <IP> <REMOTE_FULLPATH_SRC_FILE> <REMOTE_FULLPATH_DST_FILE>
+python cpx_proftp.py <IP> <REMOTE_ABSOLUTEPATH_SRC_FILE> <REMOTE_ABSOLUTEPATH_DST_FILE>
 ```
 
 ex:
@@ -28,7 +28,7 @@ http://127.0.0.1/pass.txt
 usage: 
 
 ```
-python cpx_proftp.py <IP> <REMOTE_FULLPATH_WEBDIR>
+python cpx_proftp.py <IP> <REMOTE_ABSOLUTEPATH_WEBDIR>
 ```
 
 ex:
