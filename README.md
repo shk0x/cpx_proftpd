@@ -1,6 +1,6 @@
-# cpx_proftpd.py (by daldana)
+# cpx_proftpd
 
-Tool for exploit [CVE-2015-3306](http://bugs.proftpd.org/show_bug.cgi?id=4169) reported by Vadim Melihow
+Tool coded by Daniel Aldana for [CVE-2015-3306](http://bugs.proftpd.org/show_bug.cgi?id=4169) exploitation. Bug reported by Vadim Melihow
 
 METHOD 1:
 --------
