@@ -2,8 +2,8 @@
 
 Tool coded by Daniel Aldana for [CVE-2015-3306](http://bugs.proftpd.org/show_bug.cgi?id=4169) exploitation. Bug reported by Vadim Melihow
 
-METHOD 1:
--------
+1.- METHOD 1:
+
 usage: 
 
 ```
@@ -22,7 +22,7 @@ then try:
 http://127.0.0.1/pass.txt
 ```
 
-METHOD 2:
+2.- METHOD 2:
 
 
 usage: 
