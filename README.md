@@ -28,7 +28,7 @@ http://127.0.0.1/pass.txt
 usage: 
 
 ```
-python cpx_proftp.py <IP> <REMOTE_FULLPATH_APACHE2>
+python cpx_proftp.py <IP> <REMOTE_FULLPATH_WEBDIR>
 ```
 
 ex:
