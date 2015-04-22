@@ -1,6 +1,6 @@
 # cpx_proftpd
 
-Tool coded by Daniel Aldana for [CVE-2015-3306](http://bugs.proftpd.org/show_bug.cgi?id=4169) exploitation. Bug reported by Vadim Melihow.
+PoC by Daniel Aldana for [CVE-2015-3306](http://bugs.proftpd.org/show_bug.cgi?id=4169) exploitation. Bug reported by Vadim Melihow.
 
 ###METHOD 1:
 
